@@ -1,0 +1,52 @@
+body{
+  height: 100vh;
+}
+
+.Container2{ 
+  margin: 5% 10%;
+}
+
+h1,p{
+  text-align: center;
+}
+
+.Container3{
+  display: flex;
+  gap:5px;
+  color: black;
+}
+
+.ubicacion{
+  justify-content: center;
+}
+
+.link{
+  text-decoration: none;
+  color:black;
+}
+
+.imagen{
+  display: flex;
+  margin-left: 38%;
+}
+
+.imagen2{
+  display: flex;
+  margin-left: 41%;
+}
+
+.formulario{
+ text-align: center;
+ margin-bottom: 20px;
+}
+
+.formulario2{
+  margin-left: 46%;
+}
+
+.mensajeNo{
+  
+  margin-left: 22%;
+  height: 85vh;
+}
+
