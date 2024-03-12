@@ -4,7 +4,7 @@ import { Container,Navbar } from "react-bootstrap"
 
 
 
-const Navigation = () =>{
+const Navigator = () =>{
     return(
     <>
     <Navbar 
@@ -25,7 +25,7 @@ const Navigation = () =>{
     </>
     )
 } 
-export default Navigation
+export default Navigator;
 
 
 

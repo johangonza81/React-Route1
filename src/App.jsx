@@ -1,5 +1,5 @@
 
-import Navbar from './components/Navigation'
+import Navigator from './components/Navigator'
 import 'bootstrap/dist/css/bootstrap.min.css';
 import { Routes,Route } from 'react-router-dom';
 import Home from './views/Home';
@@ -11,7 +11,7 @@ function App() {
   
   return (
     <div className='Container2'>
-      <Navbar/>
+      <Navigator/>
 
       <Routes>
 
